@@ -1,0 +1,45 @@
+[
+    {
+        "name": "PICACHU",
+        "type": "Electric",
+        "level": 9
+    },
+    {
+        "name": "C:\\Users\\jafet\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/jafet/OneDrive/Escritorio/Duad/DUAD/Semana_8/pokemon_manager.py",
+        "type": "CHARIZARD",
+        "level": 9
+    },
+    {
+        "name": "OKD",
+        "type": "DK",
+        "level": 0
+    },
+    {
+        "name": "CHARIZARD",
+        "type": "FIRE",
+        "level": 10
+    },
+    {
+        "name": "RIACHU",
+        "type": "ELECTRIC",
+        "level": 7
+    },
+    {
+        "name": "JFRN",
+        "type": "EOO",
+        "level": 2
+    },
+    {
+        "name": "PICACHU",
+        "type": "ELECTRIC",
+        "level": 9,
+        "base": {
+            "HP": 200,
+            "Attack": 4003,
+            "Defense": 3000,
+            "Sp. Attack": 3000,
+            "Sp. Defense": 30000,
+            "Speed": 9
+        }
+    }
+]
